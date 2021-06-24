@@ -17,7 +17,7 @@ import (
 	"github.com/btcsuite/btcd/mining"
 	"github.com/btcsuite/btcd/txscript"
 	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/davidjaenson/btcutil"
 )
 
 // solveBlock attempts to find a nonce which makes the passed block header hash

@@ -12,9 +12,9 @@ import (
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcd/database"
 	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/gcs"
-	"github.com/btcsuite/btcutil/gcs/builder"
+	"github.com/davidjaenson/btcutil"
+	"github.com/davidjaenson/btcutil/gcs"
+	"github.com/davidjaenson/btcutil/gcs/builder"
 )
 
 const (

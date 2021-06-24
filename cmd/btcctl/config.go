@@ -15,7 +15,7 @@ import (
 
 	"github.com/btcsuite/btcd/btcjson"
 	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
+	"github.com/davidjaenson/btcutil"
 	flags "github.com/jessevdk/go-flags"
 )
 
